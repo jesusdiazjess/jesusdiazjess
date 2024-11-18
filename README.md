@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Welcome to My GitHub 👋
 
-Hi there! I'm [Jesus], a passionate IT student and aspiring developer.
+Hi there! I'm Jesus, a passionate IT student and aspiring developer.
 
 ## 🚀 About Me
 - 🎓 Studying for a Bachelor of Science in Information Technology
