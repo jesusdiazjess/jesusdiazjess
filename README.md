@@ -45,7 +45,7 @@ Hi there! I'm Jesus, a dedicated IT student and aspiring developer. As a discipl
 - 🖌️ **Creative**: Combines design and functionality in projects like Front&Backend systems
 - 🛠 **Tools**: Brackets, Android Studio, Xcode, Visual Studio & Code, Google & Microsoft Ecosystem, Raspberry Pi
 - 🖥️ **Development Environments**: Linux (Ubuntu & Kali) and Virtual Machines
-- 🧑‍💻 **Frameworks & Libraries**: Bootstap, Cloudflare, Google Fonts, jQuery, Laravel, React.js, Node.js, and Tailwind CSS
+- 🧑‍💻 **Frameworks & Libraries**: Bootstrap, Cloudflare, Google Fonts, jQuery, Laravel, React.js, Node.js, and Tailwind CSS
 - 🌐 **Databases**: MySQL/MariaDB, MongoDB and SQL Server/MS Access
 - 🎨 **Design & Media**: Adobe Photoshop, Canva and PowerDirector
 
@@ -66,17 +66,18 @@ Hi there! I'm Jesus, a dedicated IT student and aspiring developer. As a discipl
 ### 1️⃣ [; (Semicolon) - Feature Short Film](https://www.youtube.com/watch?v=f5Pglo0YCWU)  
 *Life is full of unexpected challenges and moments when it feels like our story might come to an end. But in these times of uncertainty and doubt, we often find an inner strength we never knew we had.*  
 
-### 2️⃣ [Exploring GitHub Features](https://www.youtube.com/watch?v=placeholder2)  
+<!--### 2️⃣ [Exploring GitHub Features](https://www.youtube.com/watch?v=placeholder2)  
 *Part 2: Discover the essentials of using GitHub for your projects.*  
 
 ### 3️⃣ [Mental Health Awareness Campaign](https://www.youtube.com/watch?v=placeholder3)  
-*A short film raising awareness about mental health challenges.*  
+*A short film raising awareness about mental health challenges.* --> 
 
   
 ## 📬 Contact Me  
 - 📧 **Email**: jesus.social@proton.me 
 - ⓕ **Facebook**: [Facebook Profile](https://facebook.com/jesusdiazthesecond)
 - 💼 **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/jesusdiazjess)
+- ▶️ **YouTube**: [YouTube Channel](https://youtube.com/@fusasis-vod)
 <!--- 🌐 **Portfolio**: [Your Portfolio](https://yourportfolio.com) --> 
 <!--- 🐦 **Twitter**: [Twitter Handle](https://twitter.com/yourhandle)  -->
 ---
