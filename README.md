@@ -56,11 +56,9 @@ Hi there! I'm Jesus, a dedicated IT student and aspiring developer. As a discipl
 <!--## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusdiazjess&show_icons=true&theme=radical)-->
 
-## 🛠 Projects
-- ֎ **FUSASIS**
-- 🔐 **Login and Signup System**: A secure PHP-based authentication system.
-- 📚 **Student Management System**: A C# desktop application connected to SQL Server.
-- 📚 **Student Management System**: A Visual Basic .Net desktop application connected to MS Access.
+## 🛠 Projects  
+To check out the projects, proceed to [Repositories](https://github.com/jesusdiazjess?tab=repositories).  
+
 
 ## 📽️ Featured Videos  
 ### 1️⃣ [; (Semicolon) - Feature Short Film](https://www.youtube.com/watch?v=f5Pglo0YCWU)  
