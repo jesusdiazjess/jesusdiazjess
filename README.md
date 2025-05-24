@@ -20,7 +20,7 @@ Hi there! I'm Jesus, a dedicated IT student and aspiring developer. As a discipl
 
 ## 🚀 About Me
 - 🎓 **Degree**: Bachelor of Science in Information Technology
-- 💻 **Languages**: C#, HTML, CSS, JavaScript, PHP, Java, Visual Basic and Python.
+- 💻 **Languages**: C#, HTML, CSS, JavaScript, and PHP.
 - 🌱 **Currently Learning**: Git, GitHub, and advanced web development
 <!--- 🔗 [My Portfolio](https://yourportfolio.com)-->
 
